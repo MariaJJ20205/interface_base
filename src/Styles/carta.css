@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=New+Amsterdam&family=Poppins:wght@500&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+h4{
+    
+  font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 20px;
+}
+
+.parrafoo{
+    
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    margin: 20px;
+  }
+  
+
+
+
+.conta{
+    display: flex; 
+    justify-content: center;
+    gap: 10px; 
+}
+
+.Cartas{
+    width: 350px;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+   
+}

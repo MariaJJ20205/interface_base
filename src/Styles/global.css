@@ -1,0 +1,10 @@
+
+@import url(./images.css);
+
+.main-screen{
+    background-color: blueviolet;
+}
+
+*{
+    background-color: rgb(200, 144, 252);
+}
